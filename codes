@@ -2,12 +2,35 @@
 Node snippets
 # node-snippets on VM with macOS
 
-node
+node in cmd and enter
+
+Type following:
 "Hello, world!";
+Answer: 'Hello, world!'
+
+
 false;
+false
+
 7 + 6;
+13
+
+
 var name = "Alaska";
 "Hello, " + name;
+'Hello Alaska'
+
 "My friend " + name + " is a programmer.";
+'My friend Alaska is a programmer.'
+
 name = "Siberia";
 "Hello, " + name;
+'Hello, Siberia'
+
+var city = "Vancouver";
+var yearIncorporated = 1886;
+var currentYear = 2015;
+var age = currentYear - yearIncorporated;
+
+city + " is " + age + " years old.";
+Answer should be: 'Vancouver is 133 years old.'
