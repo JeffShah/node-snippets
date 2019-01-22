@@ -1,0 +1,12 @@
+Type after > in node
+
+> var ten = 10;
+undefined
+> ten + 3;
+13
+> ten * 3;
+30
+> ten / 3;
+3.3333333333333335
+> ten % 3;
+1
